@@ -1,4 +1,4 @@
-This is a chatbot built using node.js and express. It is basic chatbot using eventaddlistner for chat handling. 
+This is a chatbot built using node.js and express. It is basic chatbot using eventaddlistner function for chat handling. 
 Static database is used for the response generation. 
 
 Clone the project
